@@ -25,15 +25,11 @@ const Skills = () => {
          <img src="TypeSrcipt.png" className="img-fluid" alt="Responsive"/>
          </div>
          <div>
-         <img src="Redux.png" className="img-fluid" alt="Responsive"/>
-         </div>
-         <div>
          <img src="nextjs.png" className="img-fluid" alt="Responsive image"/>
          </div>
          <div>
          <img src="Bootstarp.png" className="img-fluid" alt="Responsive image"/>
          </div>
-         
        </div>
        </Swing>
        </div>

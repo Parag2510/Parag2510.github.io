@@ -5,7 +5,7 @@ import Fade from "react-reveal/Fade";
 const project = [
   {img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl28_D_K9FR5LV1xPk6MH-Fz3MTR19fmYn4bizsKMDXuv6H8YElaUI7cc630PJxasgW-4&usqp=CAU",
   cardTitle:"Animoto.com",
-  cardText:"Animoto is an online, cloud-based video creation platform. It can be used to create videos, not only from video content, but also from photos. The key is that you don't need to worry about formats of various files as Animoto does all the conversion work for you.",
+  cardText:"Animoto is an online, cloud-based video creation platform. It can be used to create videos, not only from video content, but also from photos.",
   github:"https://github.com/Parag2510/spotless-thumb-400",
   deploy:"https://bucolic-klepon-f3702a.netlify.app/",
   teckStack:"html,css,javascript"},

@@ -22,7 +22,7 @@ const Profile = () => {
                  </p>
                </div>
                <a href="./Resume.pdf" target="_blank">
-               <button className='btn btn-primary px-5 py-2' style={{marginLeft:"30%"}} >RESUME</button>
+               <button className='btn btn-primary px-5 py-2' style={{marginLeft:"32%"}} >RESUME</button>
                </a>
                
              </div>
