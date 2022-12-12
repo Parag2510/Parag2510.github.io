@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
 import { Link } from "react-scroll/modules";
-//import styles from "./header.module.css";
+import styles from "./header.module.css";
 
-//import "./nav.css";
+import "./nav.css";
 import { ThemeContext } from "../context/ThemeContext";
 import Toggle from "./Toggle";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div>
       <ul className="topnav">
-        {/* <Toggle/> */}
+        { <Toggle/> }
         <li>
           <div onClick={toggleTheme} className="button">
          { !isLight?<i class="fa-solid fa-sun"></i>:

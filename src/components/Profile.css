@@ -1,6 +1,4 @@
-.btn btn-primary px-5 py-2{
-   margin-right: 50%;
-}
+
 .container > button {
     position: relative;
     right: 25px;
@@ -70,11 +68,12 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     border: 1px solid black;
-    width: 70%;
-    height: 450px;
+    width: 65%;
+    height: 470px;
+    margin-left: 20%;
+
   }
   .profile>div>h1{
-     
      font-size: 3rem;
   }
   .profile>div>div>p{

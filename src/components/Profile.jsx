@@ -7,7 +7,7 @@ const Profile = () => {
      <div className='container-fluid  p-5  '>
          <div className="row  profile m-4 p-2">
          <Fade left>
-             <div className="col-md-6  my-5 py-4 " style={{marginBottom:"50%"}}>
+             <div className="col-md-6  my-5 py-4 " style={{marginBottom:"40%"}}>
              <img src="profile.png" className="img-thumbnail rounded-circle" alt="mypic"/>
              </div>
              </Fade>
@@ -22,7 +22,7 @@ const Profile = () => {
                  </p>
                </div>
                <a href="./Resume.pdf" target="_blank">
-               <button className='btn btn-primary px-5 py-2' style={{marginLeft:"32%"}} >RESUME</button>
+               <button className='btn btn-primary px-5 py-2' style={{marginLeft:"35%"}} >RESUME</button>
                </a>
                
              </div>
