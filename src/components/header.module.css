@@ -1,14 +1,3 @@
-/* .header{
-     background: rgb(2,0,36);
-     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(33,80,218,1) 46%, rgba(0,212,255,1) 88%);
-     max-width:100vw;
-     height:100vh;
-     display: flex;
-        align-items: center;
-        justify-content: center;
-       flex-direction: column;
-    background-image: url("https://i.stack.imgur.com/7X3An.png");
-} */
 .header {
    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   /* background-size: 400% 400%;  */
@@ -57,9 +46,7 @@
   align-items: center;
   justify-content: center;
   /* border:1px solid white; */
-  margin-top: 2rem;;
-
-  /* box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px; */
+  margin-top: 2rem;
 }
 .footer_image>div{
   /* border:1px dashed white; */
@@ -79,12 +66,7 @@
 .footer_maindiv > div {
   border: none;
   background-color: none;
-
   margin: 10px;
-  /* -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000,
-    5px 5px 15px 5px rgba(0, 0, 0, 0), 5px 5px 15px 5px rgba(241, 255, 235, 0);
-  box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000,
-    5px 5px 15px 5px rgba(0, 0, 0, 0), 5px 5px 15px 5px rgba(241, 255, 235, 0); */
   transition: width 2s height 2s;
 }
 .footer_maindiv > div :hover {
@@ -92,7 +74,6 @@
   height: 60px;
   fill: rgb(55, 55, 169);
 }
-
 .sub_header > h1 {
   font-size: 4.5rem;
   font-weight: bold;
