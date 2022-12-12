@@ -24,7 +24,6 @@ const Profile = () => {
                <a href="./Resume.pdf" target="_blank">
                <button className='btn btn-primary px-5 py-2' style={{marginLeft:"35%"}} >RESUME</button>
                </a>
-               
              </div>
              </Fade>
          </div>

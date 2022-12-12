@@ -1,6 +1,6 @@
 import React from "react";
-import styles from "./toggle.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import styles from "./toggle.css";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Toggle = () => {
   return (
     <div>
