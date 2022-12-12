@@ -7,9 +7,9 @@ ul.topnav {
     color: white;
     padding: 1rem;
     position: fixed;
-      top: 0;
-      width: 100%;
-      z-index:1000;
+    top: 0;
+    width: 100%;
+    z-index:1000;
   }
   
   ul.topnav li {
@@ -24,17 +24,6 @@ ul.topnav {
     padding: 14px 16px;
     text-decoration: none;
   }
-  /* ul.topnav li button {
-    display: block;
-    border: none;
-    color: white;
-    font-size: 1.5rem;
-    text-align: center;
-    padding: 12px 14px;
-    text-decoration: none;
-    background-color: rgb(1, 0, 13);
-  } */
-  
   ul.topnav li div {
     display: block;
     border: none;
@@ -66,12 +55,6 @@ ul.topnav {
   ul.topnav li.right {
     float: right;
   }
-  /* li button .button{
-  background-color: aliceblue;
-  width:50px;
-  } */
-  
-  
   @media screen and (max-width: 600px) {
     ul.topnav li.right,
     ul.topnav li {
@@ -80,9 +63,5 @@ ul.topnav {
     ul.topnav li button {
       margin:auto
     }
-    /* ul.topnav{
-      margin-bottom: 50px;
-    } */
-  
   }
   
